@@ -1,0 +1,4 @@
+ALLOWED_COUNTRIES = [ "NO" ]
+GEOIPDB_PATH = "GeoLite2-Country.mmdb"
+BLACKLISTED_IPS = [ "" ]
+WHITELISTED_IPS = [""]
